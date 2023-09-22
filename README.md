@@ -105,7 +105,7 @@ Identify the top 10 artists with the highest stream counts as we try and gain in
 
 Explore the top 10 artists who have contributed the most tracks between 2021 and 2023.
 
-![Alt text](<Charts/Screenshot 2023-09-21 at 4.26.36 PM.png>)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.26.59 PM.png>)
 
 ## Conclusion <a name="conclusion"></a>
 
