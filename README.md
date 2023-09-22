@@ -22,7 +22,7 @@ Welcome to the Most Streamed Spotify Songs Exploratory Data Analysis (EDA) GitHu
 
 ## Introduction <a name="introduction"></a>
 
-Prepare to embark on a journey through the melodious realms of data as we uncover the secrets behind the Most Streamed Spotify Songs up to the year 2023. This analysis not only unveils the inner workings of the music industry but also peeks into the future with some daring predictions.
+This repository houses an EDA of the Most Streamed Spotify Songs until 2023. The objective is to provide a technical overview of the dataset and the analytical processes employed.
 
 ## Dataset Overview <a name="dataset-overview"></a>
 
@@ -39,9 +39,9 @@ Our dataset is a treasure trove of musical knowledge, containing intricate detai
 
 ### Basic Statistics <a name="basic-statistics"></a>
 
-Before diving into the visual symphony that awaits, let's indulge in some appetizers of statistics that tickle the intellect.
+This section offers a concise summary of basic statistical measures such as mean, median, and standard deviation for numerical features within the dataset.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-22 at 4.54.47 PM.png>)
 
 ### Key Features <a name="key-features"></a>
 
@@ -65,52 +65,48 @@ Delve deeper into the essence of music with some intriguing features:
 
 Prepare for a visual feast as we unravel the tales hidden within numerical features.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.25.03 PM.png>)
 
 ### Major Key vs. Minor Key <a name="major-key-vs-minor-key"></a>
 
-Embark on a journey through the emotional spectrum of major and minor keys, where songs come alive with distinct vibes.
+Analyze the distribution of songs in major and minor keys to gain insights into musical preferences, and it's relationship to success.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.25.16 PM.png>)
 
 ### Comparing Distributions <a name="comparing-distributions"></a>
 
 Witness the clash of musical titans as we compare the distributions of key features between major and minor key songs.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.25.33 PM.png>)
 
 ### Correlation Heatmaps <a name="correlation-heatmaps"></a>
 
-Unearth the interconnectedness of musical attributes with mesmerizing correlation heatmaps, where numbers dance to their own rhythm.
+Examine correlations between key features and identify strong positive or negative associations through heatmaps.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.25.42 PM.png>)
+
+Keeping the ones that can be argued to matter, we see the following.
+
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.25.56 PM.png>)
 
 ### Top 7 Streamed Songs <a name="top-7-streamed-songs"></a>
 
-Embark on a journey through the hall of fame as we reveal the top 7 streamed songs, each with streams in the billions.
+Discover the seven most-streamed songs and their respective stream counts (in billions).
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.26.12 PM.png>)
 
 ### Top 10 Artists and Streams <a name="top-10-artists-and-streams"></a>
 
-Discover the artists who have enchanted the world with their melodies, commanding the highest stream counts.
+Identify the top 10 artists with the highest stream counts as we try and gain insights into their musical success.
 
-(screenshot)
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.26.21 PM.png>)
 
 ### Top 10 Artists with Most Tracks <a name="top-10-artists-with-most-tracks"></a>
 
-Peek into the prolific careers of the top 10 artists who have graced our playlists with the most tracks between 2021 and 2023.
+Explore the top 10 artists who have contributed the most tracks between 2021 and 2023.
 
-(screenshot)
-
-## Predictions for the Future <a name="predictions-for-the-future"></a>
-
-While our analysis provides a window into the past, let's gaze into the crystal ball and make some audacious predictions (please note, these are speculative and for fun):
-
-- **Prediction 1:** By 2025, the streaming industry will witness a surge in AI-generated music that resonates with global audiences, challenging the dominance of human artists.
-- **Prediction 2:** The key to a song's success will increasingly rely on its ability to evoke complex emotions, leading to a renaissance of music that blurs genre boundaries.
-- **Prediction 3:** Streaming platforms will introduce personalized music experiences tailored to individual moods and activities, revolutionizing the way we consume music.
+![Alt text](<Charts/Screenshot 2023-09-21 at 4.26.36 PM.png>)
 
 ## Conclusion <a name="conclusion"></a>
 
-As you journey through this EDA, let the music data serenade your senses and inspire your curiosity. For a deeper dive into the harmonious world of data, explore the accompanying Jupyter notebook in this repository. Feel free to reach out if you have any questions or seek further insights into the enchanting world of music analytics.
+This EDA provides a concise overview of the Most Streamed Spotify Songs EDA GitHub repository. For an in-depth technical exploration of the dataset and the analyses performed, please refer to the accompanying Jupyter notebook. If you have any technical inquiries or require further details, feel free to reach out.
